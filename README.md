@@ -3,6 +3,7 @@
 * [linkedin.com](https://www.linkedin.com/in/%E7%9C%9F%E4%B9%9F-%E5%8A%A0%E8%97%A4-a52637201/)
 * [facebook.com](https://www.facebook.com/shinya.kato.568/)
 * [転職DRAFT](https://job-draft.jp/users/3470)
+* [qiita.com](https://qiita.com/shikato)
 * [未来SW研究所](https://peraichi.com/landing_pages/view/fswlab)
 
 <!--
