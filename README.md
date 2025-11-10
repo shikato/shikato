@@ -4,7 +4,7 @@
 * [facebook.com](https://www.facebook.com/shinya.kato.568/)
 * [転職DRAFT](https://job-draft.jp/users/3470)
 * [qiita.com](https://qiita.com/shikato)
-* [未来S/W&E研究所](https://peraichi.com/landing_pages/view/fswlab)
+* [未来S/W&E研究所](https://shikato.github.io/future-swe-lab-site/)
 
 <!--
 **shikato/shikato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
